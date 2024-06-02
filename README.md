@@ -10,9 +10,13 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn More
+## Tech Stack
 
 - Chat UI - **Next.js + TailwindCSS**
 - LLM API - **OpenAI**
 - Search API - **ExaAILabs**
+- Backend Services - **Node.js**
+- Server - **Express.js**
+- Database - **MongoDB**
+- Authentication - **NextAuth.js**
 - Deployment - **Vercel**
