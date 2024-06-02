@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-Chat UI - Next.js
-LLM API - OpenAI
-Search API - ExaAILabs
-Deployment - Vercel
+- Chat UI - **Next.js + TailwindCSS**
+- LLM API - **OpenAI**
+- Search API - **ExaAILabs**
+- Deployment - **Vercel**
